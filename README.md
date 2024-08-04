@@ -1,1 +1,1 @@
-ugglyBird - плохая копия FluppyBird.
+* ugglyBird - плохая копия FluppyBird.
